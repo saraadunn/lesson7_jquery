@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 28 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Sara Dunn)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Using jQuery to build a recipe display app that displays the ingredients and instructions of a brownie.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://saraadunn.github.io/lesson7_jquery/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Adding the global directive so that it will be available and recognized by the .js file.)
+2. (Adding the jQuery method fadeIn to fade in a certain element and choosing whether it be fast or slow.)
+3. (Using jQuery to display the intstructions or ingredients when clicked on the h3 element.)
 
